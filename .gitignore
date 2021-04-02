@@ -1,0 +1,10 @@
+**/__pycache__
+config.cfg
+data/computed
+data/raw
+bot.log
+tests.py
+.vscode
+trade_history.csv
+test_trade_history.csv
+accountsample.json
